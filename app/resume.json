@@ -1,0 +1,78 @@
+{
+  "basics": {
+    "name": "Timothy Booser",
+    "label": "Software Developer",
+    "picture": "http://i.imgur.com/qqDfdqS.jpg",
+    "email": "timothybooser@gmail.com",
+    "phone": "(713) 492-5875",
+    "website": "http://richardhendricks.com",
+    "summary": "I love watching soccer (my favorite team is Chelsea) and playing pickup games whenever I get the chance. I enjoy travelling and learning about new cultures and languages, especially those related to Latin America. In addition, I like to DJ and produce house music.",
+    "location": {
+      "city": "Austin",
+      "countryCode": "US",
+      "region": "TX"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "url": "https://linkedin.com/in/timothybooser"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/tbooser"
+      }
+    ]
+  },
+
+  "projects": [
+    {
+      "name": "RNTR",
+      "url": "https://rntr.herokuapp.com/",
+      "summary": "Airbnb type website for renting household items"
+    }, 
+    {
+      "name": "Stack Underflow",
+      "url" : "https://github.com/KodebreakerZ/Stack-Underflow",
+      "summary" : "Stack Overflow clone"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Makersquare",
+      "endDate": "2016",
+      "studyType": "Software Development Immersive"
+    }, 
+    {
+      "institution": "The University of Texas at Austin",
+      "area": "Latin American Studies",
+      "studyType": "BA,  ",
+      "startDate": "2011",
+      "endDate": "2014"
+    }
+  ],
+  "skills": [
+    {
+    "level": "Strong",
+      "keywords": [
+        "JavaScript",
+        "React",
+        "Angular",
+        "NodeJS",
+        "Express", 
+        "Git",
+        "HTML/CSS"
+      ]
+    },
+    {
+      "level": "Experienced",
+      "keywords": [ 
+        "PostgreSQL",
+        "MongoDB",
+        "Mocha",
+        "jQuery", 
+        "d3.js", 
+        "Webpack"
+      ]
+    }
+  ]
+}
