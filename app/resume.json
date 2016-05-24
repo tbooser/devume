@@ -28,12 +28,23 @@
       "name": "RNTR",
       "url": "https://rntr.herokuapp.com/",
       "summary": "Airbnb type website for renting household items"
+    },
+    {
+      "name": "Twitter Handle Autocomplete",
+      "url" : "https://github.com/tbooser/getTwitterUsernames",
+      "summary" : "Suggests Twitter handles as you type; built with React" 
     }, 
     {
       "name": "Stack Underflow",
       "url" : "https://github.com/KodebreakerZ/Stack-Underflow",
       "summary" : "Stack Overflow clone"
+    },
+    {
+      "name": "RandomMapLocation",
+      "url" : "https://vast-spire-19184.herokuapp.com/",
+      "summary" : "Click anywhere on the map to loaded the nearest panoramic shot"
     }
+
   ],
   "education": [
     {
